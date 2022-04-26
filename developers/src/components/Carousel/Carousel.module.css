@@ -1,5 +1,5 @@
 .slideshow{
-    margin: 0 auto;
+    margin: 1px auto;
     overflow: hidden;
     width: 100%;
 }
@@ -10,7 +10,7 @@
   
 .slide {
     display: inline-block;
-    background-color: grey;
+    background-color: #616161;
     height: 300px;
     width: 100%;
     border-radius: 40px;
@@ -29,7 +29,7 @@
 
 @media screen and (min-width: 688px){
     .slideshow{
-        margin: 0 auto;
+        margin: 1px auto;
         overflow: hidden;
         max-width: 600px;
     }
