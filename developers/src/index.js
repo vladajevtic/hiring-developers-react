@@ -15,3 +15,23 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+// import React, { Component } from 'react';
+// import { render } from 'react-dom';
+// import { withScriptjs } from 'react-google-maps';
+// import Map from './Map/Map';
+// import './style.css';
+
+// const App = () => {
+//   const MapLoader = withScriptjs(Map);
+
+//   return (
+//     <MapLoader
+//       googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyBPtQ7d3YbWV3Ok1eRBhDsGI4cgjzEAGcg"
+//       loadingElement={<div style={{ height: `100%` }} />}
+//     />
+//   );
+// };
+
+// render(<App />, document.getElementById('root'));

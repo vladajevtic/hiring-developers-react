@@ -1,0 +1,14 @@
+
+.inputContainer{
+    width: 80%; 
+    margin: auto;
+    padding: 8px;
+}
+.inputContainer .inputItem{
+    width: 80%;   
+    margin: auto;
+    padding: 8px;
+}
+.inputContainer .inputItem .inputField{
+    width: 80%;
+}
